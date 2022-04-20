@@ -6,7 +6,7 @@ img: siho_jiarou.jpg
 alt: Siho and Jiarou
 project-date: April 2019
 client: Siho Park
-category: 3d design
+category: 3D design
 description: 3D design practice with the name of Siho and Jiarou
 ---
 
